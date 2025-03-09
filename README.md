@@ -1,4 +1,5 @@
 ![image alt](https://github.com/Alemcode0/Alemcode0/blob/main/GitHeader1.png)
+## App Developer | Kotlin & Swift (Android & iOS) | UX/UI Designer
 🔭 I’m currently working on several projects using Figma for design and Jetpack Compose for Android UI development.<br>👯 I’m looking to collaborate on mobile app projects, especially those involving Android (Jetpack Compose) and iOS (SwiftUI).<br>🤝 I’m looking for help with best practices for optimizing cross-platform app performance.<br>🌱 I’m currently learning advanced animations in Jetpack Compose & SwiftUI.<br>💬 Ask me about Android & iOS development, UI/UX design, and Kotlin vs. Swift.<br>⚡ Fun fact " I once said, “This will be a quick fix.” That was three hours ago😆 "
 
 
