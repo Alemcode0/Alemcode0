@@ -2,18 +2,14 @@
 ## 👨‍💻 App Developer | Kotlin & Swift (Android & iOS) | UX/UI Designer
 #### 🎨 From Classical Art to Code: 
 My journey started with classical art and graphic design, led me through film production, and finally landed me in app development—where creativity meets technology. Now, I bring ideas to life through beautifully crafted mobile experiences.
-
 #### 🚀 What I’m working on:
-I’m currently building several projects using Figma for design and Jetpack Compose for Android UI development. Every pixel and line of code is a step toward intuitive and seamless user experiences.
-
+I’m currently building several projects using Kotlin, Jetpack Compose for Android UI development & Swift for iOS development. Every pixel and line of code is a step toward intuitive and seamless user experiences.
 #### 🤝 Collaboration & Learning:
-
-- Looking to collaborate on Android (Jetpack Compose) & iOS (SwiftUI) projects.
+- Looking to collaborate on Android (Kotlin, Jetpack Compose) & iOS (SwiftUI) projects.
 - Seeking insights on best practices for optimizing cross-platform performance.
 - Deep-diving into advanced animations in Jetpack Compose & SwiftUI to add that extra polish.
 #### 💬 Let’s talk about: 
-Android & iOS development, UI/UX design, and Kotlin vs. Swift. If you love discussing minimalist design, performance optimization, or dark mode supremacy, we’ll get along well!
-
+Android & iOS development, UI/UX design, and Kotlin vs. Swift. If you love discussing minimalist design, performance optimization, we’ll get along well!
 #### 😂 Fun fact: 
 “I once said, ‘This will be a quick fix.’ That was three hours ago.”
 
