@@ -1,4 +1,4 @@
-![image alt](https://github.com/Alemcode0/Alemcode0/blob/main/githeader2.png)
+![image alt](https://github.com/Alemcode0/Alemcode0/blob/main/gitHeader3.png)
 ## 👨‍💻 App Developer | Kotlin & Swift (Android & iOS) | UX/UI Designer
 #### 🎨 From Classical Art to Code: 
 My journey started with classical art and graphic design, led me through film production, and finally landed me in app development—where creativity meets technology. Now, I bring ideas to life through beautifully crafted mobile experiences.
